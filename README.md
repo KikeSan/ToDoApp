@@ -1,4 +1,4 @@
-![Kike](https://s3.amazonaws.com/freecodecamp/wide-social-banner.png)
+![Kike](https://github.com/KikeSan/ToDoApp/blob/master/img/logoBlue.svg)
 # To do App
 Demo test Aplicattion
 Just run:
