@@ -1,5 +1,7 @@
 <p align="center">
-	<a href="http://kike.pe" target="_blank"><img src="https://github.com/KikeSan/ToDoApp/blob/master/img/logoBlue.svg" alt="kike.pe" width="100"/></a>
+	<a href="http://kike.pe" target="_blank">
+        <img src="https://github.com/KikeSan/ToDoApp/blob/master/img/logoBlue.svg" alt="kike.pe" width="100"/>
+    </a>
 	<br><br>
 </p>
 
