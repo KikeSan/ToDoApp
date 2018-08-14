@@ -5,11 +5,9 @@ export default class App extends Component {
   state = {
     message: 'Message'
   }
-
   handleToggleMessage = (message) => {
     this.setState({ message })
   }
-
   render() {
     return (
       <div className={styles.app}>
