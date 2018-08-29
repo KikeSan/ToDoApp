@@ -15,7 +15,7 @@ export default class App extends Component {
           <h1>{this.state.message}</h1>
           <button 
             className={styles.buttonSuccess} 
-            onClick={() => this.handleToggleMessage('Hello World!!! :D')}>Hello</button>
+            onClick={() => this.handleToggleMessage('Hello World!!! :D')}>Hello!</button>
           <button 
             className={styles.buttonPrimary} 
             onClick={() => this.handleToggleMessage('Bye World!!! :(')}>Bye</button>
